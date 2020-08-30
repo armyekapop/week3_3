@@ -13,7 +13,7 @@ int main()
 	}
 	if(input1 == input2)
 	{
-		printf("%d = %d input1 = input2", input1, input2);
+		printf("%d = %d \ninput1 = input2", input1, input2);
 	}
 	return 0;
 }
